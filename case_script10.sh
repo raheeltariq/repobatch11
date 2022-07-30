@@ -6,6 +6,12 @@ echo " type 1 to Do A"
 echo " type 2 to do B"
 echo " type 3 to do C"
 echo " type 4 to do D"
+echo " type 2 to do B"
+echo " type 3 to do C"
+echo " type 4 to do D"
+
+
+
 read choice
 
 case $choice in
